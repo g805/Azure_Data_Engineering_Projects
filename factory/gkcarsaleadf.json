@@ -1,0 +1,9 @@
+{
+	"name": "gkcarsaleadf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60aae46a-1296-491b-a5f4-0d4ce67db178",
+		"tenantId": "a5b09cd1-71a7-4121-9ab2-7b0a7c34f6b4"
+	}
+}
